@@ -24,15 +24,15 @@ export const Wrapper = styled.div`
   flex-direction: column;
   align-items: center;
   > p {
-    color: #fff;
+    color: #87f1ff;
   }
   .score {
-    color: #fff;
+    color: #87f1ff;
     font-size: 2rem;
     margin: 0;
   }
-  a { color: #f00;}
-  a:hover { color: #f00;}
+  a { color: #87f1ff;}
+  a:hover { color: #87f1ff;}
   h1 {
     font-family: Fascinate Inline;
     background-image: linear-gradient(180deg, #fff, #87f1ff);
