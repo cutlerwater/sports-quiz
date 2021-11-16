@@ -102,6 +102,7 @@ const App = () => {
        <a href="https://cutlerwater-historyquiz.netlify.app/">Click here to go to the History quiz</a>
        <a href="https://cutlerwater-mathquiz.netlify.app/">Click here to go to the Math quiz</a>
        <a href="https://cutlerwater-celebritiesquiz.netlify.app/">Click here to go to the Celebrities quiz</a>
+       <a href="https://cutlerwater-profile.netlify.app/">Click here to go back to my CutlerwaterITBlog site</a>
       </Wrapper>
           </>
   );
